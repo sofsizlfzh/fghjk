@@ -1,0 +1,1 @@
+//10 linked list , 10 array , 10 pattern - from hackerrank/leetcode in notebook and explain every single thing of them.
